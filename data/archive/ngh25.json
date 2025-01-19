@@ -1,0 +1,74 @@
+{
+	"count": 1,
+	"total": 1,
+	"data": [
+		{
+			"symbol": "NGH25",
+			"exchange": "NYMEX",
+			"symbolName": "Natural Gas",
+			"symbolType": 2,
+			"baseCode": "B",
+			"symbolCode": "FUT",
+			"previousPrice": "3.739",
+			"previousHighPrice": "3.778",
+			"previousLowPrice": "3.501",
+			"weeklyPreviousPrice": "3.989",
+			"weeklyPreviousHighPrice": "4.018",
+			"weeklyPreviousLowPrice": "3.427",
+			"monthlyPreviousPrice": "3.633",
+			"monthlyPreviousHighPrice": "4.201",
+			"monthlyPreviousLowPrice": "2.977",
+			"chartTime": "2025-01-17T18:06:00",
+			"shortSymbol": "NGH25",
+			"hasBats": "No",
+			"hasJerq": "Yes",
+			"lastPrice": "3.479s",
+			"percentChange": "-6.95%",
+			"priceChange": "-0.260",
+			"openPrice": "3.697",
+			"lowPrice": "3.453",
+			"highPrice": "3.718",
+			"pointValue": "$10,000",
+			"lowPrice1y": "2.522",
+			"highPrice1y": "3.778",
+			"raw": {
+				"symbol": "NGH25",
+				"exchange": "NYMEX",
+				"symbolName": "Natural Gas",
+				"symbolType": 2,
+				"baseCode": "B",
+				"symbolCode": "FUT",
+				"previousPrice": 3.739,
+				"previousHighPrice": 3.778,
+				"previousLowPrice": 3.501,
+				"weeklyPreviousPrice": 3.989,
+				"weeklyPreviousHighPrice": 4.018,
+				"weeklyPreviousLowPrice": 3.427,
+				"monthlyPreviousPrice": 3.633,
+				"monthlyPreviousHighPrice": 4.201,
+				"monthlyPreviousLowPrice": 2.977,
+				"chartTime": 1737158760,
+				"shortSymbol": "NGH25",
+				"hasBats": false,
+				"hasJerq": true,
+				"lastPrice": 3.479,
+				"percentChange": -0.0695,
+				"priceChange": -0.26,
+				"openPrice": 3.697,
+				"lowPrice": 3.453,
+				"highPrice": 3.718,
+				"pointValue": 10000,
+				"lowPrice1y": 2.522,
+				"highPrice1y": 3.778
+			}
+		}
+	],
+	"meta": {
+		"symbol": {
+			"normalized": {
+				"NGH25": "NGH25"
+			}
+		}
+	},
+	"errors": null
+}
